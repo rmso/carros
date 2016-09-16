@@ -1,2 +1,2 @@
 # carros
-Projeto desenvolvido baseado no livro Google Android
+Projeto baseado no livro Google Android
